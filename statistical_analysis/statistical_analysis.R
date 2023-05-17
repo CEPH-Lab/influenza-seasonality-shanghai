@@ -23,9 +23,6 @@ library(MASS)
 library(prettyGraphs)
 
 
-## Working directory
-setwd("/Users/alkummer/Library/CloudStorage/OneDrive-IndianaUniversity/Documents/Research/Resp_Infectious/Shanghai_Seasonality_cntpatterns/sharable_code/")
-
 ## Source file for functions ##
 source("functions.R")
 
