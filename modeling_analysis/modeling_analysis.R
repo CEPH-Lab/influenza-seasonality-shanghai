@@ -24,8 +24,8 @@ source("functions.R")
 ## Running MCMC Instructions##
 ##############################
 
-# To run MCMC, change the mcmc parameter (params$MCMC) equal to 1 (line 141)
-# and set simulations equal to 0 (line 155).
+# To run MCMC, change the mcmc parameter (params$MCMC) equal to 1 (line 140)
+# and set simulations equal to 0 (line 154).
 
 ######################################
 ## Plotting Posterior distributions ##
