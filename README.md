@@ -31,7 +31,7 @@ After that operation, you should have the same files without the `.zip` extensio
     - Install the R libraries needed for the analysis by setting INSTALL = T 
     - Run the analysis in small sections by highlighting the code you want to run and then clicking the "run" command. Each section of the code is separated by a header.
     - To run the influenza transmission model, set RUN_SYSTEM = T
-    - Warning: the full analysis may take a few hours to run with the default setup. This time can be reduced by reducing the number of simulations or commenting the sections that estimate the reproduction number (lines 88-115 and lines 227-332).
+    - Warning: the full analysis may take a few hours to run with the default setup. This time can be reduced by reducing the number of simulations or commenting the sections that estimate the reproduction number (lines 86-114 and lines 276-331).
 
 ## Project directories
 ### Statistical analysis
