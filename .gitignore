@@ -48,6 +48,11 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# ---------------
+
 # MacOS files
 .DS_Store
 */.DS_Store
+
+# Large files to ignore
+*/net_reproduction_number.csv
