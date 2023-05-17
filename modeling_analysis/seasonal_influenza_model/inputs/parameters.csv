@@ -1,0 +1,2 @@
+Population,Tg,R0,I0,Rem0,sB,sI0,sRR,sDisp,fluStartWeek,fluStartYear,fluEndWeek,fluEndYear,Scale,Report_Rate,holiday_Report_rate,Dispersion, Nsim, HH_size, work_cnt, school_cnt, fluStartDay, MCMC, beta, first_week, start_holiday, end_holiday
+24860000,3.0,1.1,50000.0,0.0,0.005,10000.0,0.0005,5,49,2017,14,2018,100000,0.001,0.001,15.2500555218523,1000000,0,0,0,0,0,0,39, 7, 10

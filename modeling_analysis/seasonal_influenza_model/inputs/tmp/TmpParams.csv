@@ -1,0 +1,2 @@
+"","Population","Tg","R0","I0","Rem0","sB","sI0","sRR","sDisp","fluStartWeek","fluStartYear","fluEndWeek","fluEndYear","Scale","Report_Rate","holiday_Report_rate","Dispersion","Nsim","HH_size","work_cnt","school_cnt","fluStartDay","MCMC","beta","first_week","start_holiday","end_holiday"
+"1",24860000,3,1.1,4944.974126,0,0.005,10000,5e-04,5,49,2017,14,2018,100000,0.004448,0.00764,9.035011,1000000,0,0,0,0,0,0.021667,49,-1,-1
