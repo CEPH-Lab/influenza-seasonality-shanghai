@@ -24,6 +24,7 @@ After that operation, you should have the same files without the `.zip` extensio
     - Install the R libraries needed for the analysis by setting INSTALL = T 
     - Run the analysis by highlighting small sections of the code and clicking the "run" command. 
     - The full analysis will take around 10 minutes to run. 
+    - To make sure the code is working, check that the plots produced from the code are similar to those in the main text. 
 - To run the modeling analysis:
   - Compile the code by opening a terminal in the main project directory and typing: *modeling_analysis/seasonal_influenza_model/MyCompiler.sh*
     - The ./Mycompiler.sh script will only work when running from the seasonal_influenza_model folder.
@@ -32,6 +33,7 @@ After that operation, you should have the same files without the `.zip` extensio
     - Run the analysis in small sections by highlighting the code you want to run and then clicking the "run" command. Each section of the code is separated by a header.
     - To run the influenza transmission model, set RUN_SYSTEM = T
     - Warning: the full analysis may take a few hours to run with the default setup. This time can be reduced by reducing the number of simulations or commenting the sections that estimate the reproduction number (lines 86-114 and lines 276-331).
+    - - To make sure the code is working, check that the plots produced from the code are similar to those in the main text. 
 
 ## Project directories
 ### Statistical analysis
